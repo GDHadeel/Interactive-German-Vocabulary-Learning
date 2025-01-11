@@ -8,11 +8,11 @@ This repository contains a simple interactive game designed to help users learn 
 - Dynamic and responsive interface with engaging visuals.
 
 #How to Play
-1- Enter your group or player name.
-2- Click "Spiel starten" to begin.
-3- Guess the word by entering letters in the squares.
-4- Click "Nächstes" to submit your answer and move to the next image.
-5- View your results and compare your answers.
+1. Enter your group or player name.
+2. Click "Spiel starten" to begin.
+3. Guess the word by entering letters in the squares.
+4. Click "Nächstes" to submit your answer and move to the next image.
+5. View your results and compare your answers.
 
 # Features:
 - Fun and interactive learning experience.
